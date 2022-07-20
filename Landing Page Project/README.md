@@ -2,9 +2,8 @@
 
 ## Table of Contents
 
-
-* [Installation](#installation)
 * [Features](#features)
+* [Notes] (#Notes)
 
 
 ## Features
@@ -15,3 +14,7 @@
 - based on the scroll on the page the topview section is activated with custom css style
 - smooth navigation if a section is selected from navigation bar
 - on scrolling a button back to top appears and scroll back to the top smoothly
+
+## Notes
+-No change in the HTML & CSS files
+-All work is done in Javascript file app.js
