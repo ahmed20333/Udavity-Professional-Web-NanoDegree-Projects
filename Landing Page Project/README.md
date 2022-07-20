@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Features](#features)
-* [Notes] (#Notes)
+* [Notes](#Notes)
 
 
 ## Features
